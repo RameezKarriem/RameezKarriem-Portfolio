@@ -47,21 +47,6 @@ https://www.figma.com/proto/2o459QPq1FgqfB1zrhvukq/Untitled
 
 ---
 
-## 💬 Feedback Application *(Add this repo if not yet uploaded)*  
-**JavaFX Application | 2025**
-
-A JavaFX-based application that allows users to submit and view feedback through an interactive graphical interface.
-
-**Key Features:**
-- JavaFX GUI design  
-- Event handling and user interaction  
-- Structured feedback storage and display  
-
-🔗 **Repository:**  
-(Add your link here)
-
----
-
 # 🛠️ Technical Skills
 
 <p align="center">

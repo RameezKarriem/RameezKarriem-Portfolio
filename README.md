@@ -42,8 +42,8 @@ A redesign of the NSFAS mobile application aimed at improving usability and user
 - Improved navigation and accessibility  
 - Designed using Figma  
 
-🎨 **Prototype:**  
-https://www.figma.com/proto/2o459QPq1FgqfB1zrhvukq/Untitled  
+🔗 **Repository:**   
+https://github.com/RameezKarriem/NSFAS-App-Redesign.git
 
 ---
 
